@@ -1,4 +1,6 @@
 # Carthage Package Example
+### What is it?
+This is an example of a Carthage package. Framework contains a subclass of UIViewController that allows you to separate view from view controller.
 ### Example
 You can find demo in CarthagePackageDemo in this repository.
 ### Usage
