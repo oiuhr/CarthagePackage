@@ -1,4 +1,6 @@
 # Carthage Package Example
+### Example
+You can find demo in CarthagePackageDemo in this repository.
 ### Usage
 1. Go to desired project folder and open Cartfile. You can run 'touch Cartfile' to create a new one
 2. Add package to package list
