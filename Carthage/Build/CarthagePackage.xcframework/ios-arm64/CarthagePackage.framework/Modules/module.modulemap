@@ -1,0 +1,11 @@
+framework module CarthagePackage {
+  umbrella header "CarthagePackage.h"
+
+  export *
+  module * { export * }
+}
+
+module CarthagePackage.Swift {
+    header "CarthagePackage-Swift.h"
+    requires objc
+}
